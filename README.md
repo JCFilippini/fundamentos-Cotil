@@ -1,2 +1,2 @@
-# fundamentos-Cotil
-Materiais para as aulas de FI 
+# Fundamentos de Informática 
+Este repositório contém os exercícios e anotações da disciplina.
