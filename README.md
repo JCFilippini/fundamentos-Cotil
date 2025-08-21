@@ -11,3 +11,12 @@ Gosto de ler, praticar alguns esportes, jogar RPG e assitir filmes de sci-fi. N�
 - (Acho)Tenho uma grande facilidade em Matemática;
 - Tento ser gentil sempre;
 
+## Meu primeiro programa!
+O exemplo a seguir é um classíco "Hello World!" pelo `printf()` em C
+```
+#include<studio.h>
+int main(){
+    printf("Hello World!);
+    return 0;
+}
+```
